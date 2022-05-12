@@ -194,3 +194,15 @@ main {
   font-family: lobster;
   src: url("../font/Lobster/Lobster-Regular.ttf");
 }
+
+.chgHead{
+  text-align: center;
+  font-family: lobster;
+}
+.reqcard{
+  background-color: beige;
+}
+
+
+
+
